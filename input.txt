@@ -1,0 +1,8 @@
+Put 1 11
+Put 2 22
+Put 3 33
+Get 11
+Put 4 44
+Get 2
+Put 5 55
+Get 3
